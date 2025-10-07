@@ -1,0 +1,12 @@
+# Sensitive data
+secrets.h
+
+# Build files
+*.hex
+*.elf
+*.bin
+*.bak
+
+# IDE files
+.vscode/
+*.code-workspace
